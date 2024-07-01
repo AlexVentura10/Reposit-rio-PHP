@@ -16,7 +16,6 @@
 
      // É importante destacar que todo esse scrit foi pré-processado e exibido para o cliente somente o resultado é mandado para o cliente.  
      
-     // Teste GitHub
     ?>
 </body>
 
