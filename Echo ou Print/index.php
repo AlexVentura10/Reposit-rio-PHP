@@ -10,9 +10,11 @@
  
  <?php 
   
-  echo "<h1>Olá mundo!\u{1F30E} <h1>"
-  // status teste
+  echo "Olá mundo!\u{1F30E}";
+  print "Olá mundo!\u{1F30E}";
   
+  // Comentário: Os comando echo e print são responsáveis por imprimir o texto na tela.
+
   ?>
     </h1>
     <p>Vamos tentar se livrar da maldição</p>
