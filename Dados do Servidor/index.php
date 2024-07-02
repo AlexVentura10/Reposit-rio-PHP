@@ -13,7 +13,7 @@
 
     <?php 
     
-    phpinfo();
+    phpinfo(); // Função para obter dados do servidor
 
 
     ?>
