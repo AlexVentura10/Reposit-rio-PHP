@@ -18,9 +18,10 @@
     $nomeCompleto = "Camel Case";
 
     // Utilização de "Snake CASE" para nomear constantes
+    
     $telefone_particular = "Snake CASE";
     
-    
+
     $endereçodocliente = "Não é errado, mas não recomendado e confuso"
     
     ?>
