@@ -5,10 +5,13 @@ PHP (Hypertext Preprocessor) é uma linguagem de programação amplamente utiliz
 
 Por que aprender PHP? 💡
 
-Popularidade: PHP é uma das linguagens mais usadas no desenvolvimento web.
-Facilidade de Uso: PHP é fácil de aprender e usar.
-Comunidade Ativa: Existem muitos recursos e uma comunidade grande de desenvolvedores que podem ajudar.
-Compatibilidade: PHP é compatível com quase todos os servidores web e sistemas operacionais.
+- Popularidade: PHP é uma das linguagens mais usadas no desenvolvimento web.
+
+- Facilidade de Uso: PHP é fácil de aprender e usar.
+
+- Comunidade Ativa: Existem muitos recursos e uma comunidade grande de desenvolvedores que podem ajudar.
+
+- Compatibilidade: PHP é compatível com quase todos os servidores web e sistemas operacionais.
 
 Processo de Comunicação:
 
