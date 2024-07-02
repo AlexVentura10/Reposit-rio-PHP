@@ -12,13 +12,15 @@
     $nome = "Alex"; // Variável
     const Pais = "Brasil"; // Constante
     echo "Olá, $nome, tudo bem? Você mora no " .Pais;
-    
-    // ------------------------------------------------
 
     // Utilização de "camelCase" para métodos e atributos
 
     $nomeCompleto = "Camel Case";
+
+    // Utilização de "Snake CASE" para nomear constantes
     $telefone_particular = "Snake CASE";
+    
+    
     $endereçodocliente = "Não é errado, mas não recomendado e confuso"
     
     ?>
