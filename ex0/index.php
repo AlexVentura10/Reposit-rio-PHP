@@ -19,6 +19,8 @@
 
     // Utilização de "camelCase" para métodos e atributos
 
+    echo "<br>"; // Pulando linha
+
     $nomeCompleto = "Camel Case";
 
     // Utilização de "Snake CASE" para nomear constantes
@@ -33,6 +35,12 @@
 
     var_dump($variavelBool);
     
+    // Comentário: Para uma variável do tipo Bool, se eu mando imprimir na tela com o echo ou print, o valor para true é "1" e o valor para false é " " (vazio).
+    
+    echo "<br>";
+
+    echo "O valor para da variavelBool é: $variavelBool";
+
     ?>
 </body>
 </html>
