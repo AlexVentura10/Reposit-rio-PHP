@@ -13,7 +13,7 @@
   echo "Olá mundo!\u{1F30E}";
   print "Olá mundo!\u{1F30E}";
   
-  // Comentário: Os comando echo e print são responsáveis por imprimir o texto na tela.
+  // Comentário: Os comando echo e print são responsáveis por imprimir o texto na tela
 
   ?>
     </h1>
