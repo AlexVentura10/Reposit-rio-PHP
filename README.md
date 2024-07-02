@@ -21,7 +21,7 @@ Servidor Recebe Solicitação: O servidor recebe essa solicitação, processa qu
 🖥️ Servidor Envia Resposta: O servidor envia a resposta de volta ao cliente através da internet. Essa resposta pode ser uma página HTML, um arquivo JSON, etc.
 Cliente Recebe Resposta: O navegador do cliente recebe a resposta e a renderiza para que o usuário possa ver o resultado. Se for uma página web, ela será exibida no navegador do cliente.
 
-Diferença Entre Client-Side e Server-Side
+Diferença Entre Client-Side e Server-Side:
 
 🛜 Client-Side: Refere-se a tudo que acontece no navegador do usuário. Scripts de client-side (como JavaScript) são executados no navegador e são usados para criar interatividade, validação de formulários, animações, etc.
 
