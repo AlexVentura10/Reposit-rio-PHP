@@ -9,12 +9,20 @@
 
     <h1>Tipos de String</h1>
     <?php 
+
     // Tipo Double quoted (""): Com o uso das aspas duplas existe a interpretação do conteúdo. EX:
 
     echo "Tipo double quoted (aspas duplas) <br>";
-    echo "Olá Mundo \u{1F30E}"
+    echo "Olá Mundo \u{1F30E}";
     
     // O "\u" trata-se de uma sequência de escape, utilizada a partir do PHO vs 7, para exibir caracteres especiais unicod. Ex: Emoji  Código do emoji world: \u{1F30E}
+
+    // Tipo Single quoted (''): Ao utilizar as aspas simples, estou dizendo que não preisa interpretar o conteúdo dentro da string, para exibir exatamente o que foi escrito.  
+
+    echo "<br>";
+
+    echo 'Olá Mundo \u{1F30E}';
+
 
 
 
