@@ -68,7 +68,7 @@
     // echo "$nome "Gato" $sobrenome"; Não permitido
 
     echo "$nome \"Gato\" $sobrenome"; // Permitido (\" \" sequência de escape)
-
+   
     ?>
 </body>
 </html>
